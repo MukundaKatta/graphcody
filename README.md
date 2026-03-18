@@ -66,6 +66,3 @@ graphcody/
 └── package.json
 ```
 
-## License
-
-MIT
